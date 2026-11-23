@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8sXK4ikRVM=",
+  "success": true,
+  "projectFilePath": "P:\\base\\packages\\Fabbier\\ChatBot\\ChatBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\async dev\\.nuget\\packages\\microsoft.extensions.ai\\11.0.1\\microsoft.extensions.ai.11.0.1.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\11.0.1\\microsoft.extensions.ai.abstractions.11.0.1.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\openai\\2.15.0\\openai.2.15.0.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\system.clientmodel\\1.16.0\\system.clientmodel.1.16.0.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\system.memory.data\\10.0.10\\system.memory.data.10.0.10.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\system.numerics.tensors\\11.0.0\\system.numerics.tensors.11.0.0.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\11.0.0\\microsoft.netcore.app.runtime.win-x64.11.0.0.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\11.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.11.0.0.nupkg.sha512",
+    "C:\\Users\\async dev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\11.0.0\\microsoft.aspnetcore.app.runtime.win-x64.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
